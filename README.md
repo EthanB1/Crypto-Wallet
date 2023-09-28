@@ -27,7 +27,6 @@ Post-transaction, validate it on Ganache.
 
 ---
 
-**Note**: Update the image placeholder with your actual image path.
 
 ### **Wrap-Up**:
 This task enabled Ethereum functions in a Streamlit app, facilitating crypto payments on KryptoJobs2Go. Always authenticate transactions on the blockchain.
